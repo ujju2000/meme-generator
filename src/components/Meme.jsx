@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState } from 'react';
-const input = 'w-full sm:w-[60%] mx-auto  m-2.5 border-2 rounded-md p-1.5 outline-0 text-slate-500';
+const input = 'w-full sm:w-[60%] mx-auto  m-2.5  rounded-md p-1.5 outline-0 text-slate-500';
 const output = 'absolute  left-[50%] sm:left-[50%] md:left-[40%] font-bold text-white uppercase text-xl sm:text-3xl md:text-7xl';
 
 export default function Meme() {
